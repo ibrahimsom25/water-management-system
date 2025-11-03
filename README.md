@@ -22,7 +22,7 @@ It’s built to improve water management efficiency, transparency, and environme
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
 - **Database:** MySQL  
-- **Server Environment:** XAMPP / WAMP / LAMP  
+- **Server Environment:** XAMPP   
 
 ---
 
