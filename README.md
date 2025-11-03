@@ -1,4 +1,4 @@
-# 💧 Water Management System
+#  Water Management System
 
 A **web-based PHP application** designed to efficiently monitor, manage, and maintain water resources.  
 The system helps administrators track **water quality**, manage **resources**, and handle **reported issues** through an interactive dashboard.  
@@ -6,7 +6,7 @@ It’s built to improve water management efficiency, transparency, and environme
 
 ---
 
-## 📋 Features
+##  Features
 
 -  **Water Quality Monitoring:** Record and track water quality data.  
 -  **Resource Management:** Manage water supply points and related resources.  
@@ -17,7 +17,7 @@ It’s built to improve water management efficiency, transparency, and environme
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** PHP  
@@ -26,7 +26,7 @@ It’s built to improve water management efficiency, transparency, and environme
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 /water_management_system
 
