@@ -62,16 +62,16 @@ It’s built to improve water management efficiency, transparency, and environme
 
 └── water_quality.sql # Database file (if included)
 
-🤝 Contributing
+# Contributing
 
 Contributions are welcome!
 If you’d like to improve the system, please fork the repository and submit a pull request.
 
-📄 License
+# License
 
 This project is licensed under the MIT License.
 
-👨‍💻 Author
+# Author
 
 Ibrahim osman Sheikh Hussein
 iroscade59@gmail.com
