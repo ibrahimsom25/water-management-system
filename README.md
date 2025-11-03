@@ -8,12 +8,12 @@ It’s built to improve water management efficiency, transparency, and environme
 
 ## 📋 Features
 
-- 💦 **Water Quality Monitoring:** Record and track water quality data.  
-- 🧾 **Resource Management:** Manage water supply points and related resources.  
-- ⚠️ **Issue Reporting:** Allow users or staff to report water-related problems.  
-- 🧍 **Admin Dashboard:** Centralized view of all system data and issue status.  
-- 📊 **Reports and Logs:** View and manage water quality and issue records.  
-- 🔐 **User Authentication:** Secure login and logout system for administrators.
+-  **Water Quality Monitoring:** Record and track water quality data.  
+-  **Resource Management:** Manage water supply points and related resources.  
+-  **Issue Reporting:** Allow users or staff to report water-related problems.  
+-  **Admin Dashboard:** Centralized view of all system data and issue status.  
+-  **Reports and Logs:** View and manage water quality and issue records.  
+-  **User Authentication:** Secure login and logout system for administrators.
 
 ---
 
